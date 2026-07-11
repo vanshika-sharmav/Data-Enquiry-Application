@@ -84,4 +84,4 @@ The database starts with 8 sample products (electronics, stationery, furniture, 
 ## Author
 
 **Vanshika Sharma**
-B.Tech Computer Science and Engineering, University Institute of Information Technology (UIT) Shimla
+B.Tech Information Technology, University Institute of Technology (UIT) Shimla
