@@ -85,7 +85,3 @@ The database starts with 8 sample products (electronics, stationery, furniture, 
 
 **Vanshika Sharma**
 B.Tech Computer Science and Engineering, University Institute of Information Technology (UIT) Shimla
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
