@@ -1,0 +1,4 @@
+# This project only uses Python's standard library — no external
+# packages are required (sqlite3, csv, and tkinter all ship with Python).
+#
+# Python version: 3.8+
